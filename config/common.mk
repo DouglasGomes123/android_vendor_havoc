@@ -121,6 +121,7 @@ PRODUCT_PACKAGES += \
 # Havoc packages
 PRODUCT_PACKAGES += \
     Browser \
+    GalleryGoPrebuilt \
     NexusLauncherRelease \
     SettingsIntelligenceGooglePrebuilt
 
