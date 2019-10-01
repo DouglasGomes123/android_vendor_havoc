@@ -123,7 +123,8 @@ PRODUCT_PACKAGES += \
     Browser \
     GalleryGoPrebuilt \
     NexusLauncherRelease \
-    SettingsIntelligenceGooglePrebuilt
+    SettingsIntelligenceGooglePrebuilt \
+    AsusCamera
 
 # Overlays
 PRODUCT_PACKAGES += \
