@@ -150,7 +150,8 @@ PRODUCT_PACKAGES += \
     Terminal \
     Via \
     WallpaperPickerGooglePrebuilt \
-    WeatherProvider
+    WeatherProvider \
+    AsusCamera
 
 # WeatherProvider
 PRODUCT_COPY_FILES += \
